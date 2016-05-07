@@ -1,0 +1,8 @@
+Voto electronico.
+-----------------
+
+- "Multiples configuracion de sistemas electorales".
+- Mayoria simple (gana el que tiene mas votos).
+- Con ballotage (hay empate si nadie supera cierto porcentaje de votos).
+
+Si un fugitivo va a votar, que llame al metodo "avisar" de un objeto que se llamara "policia".
